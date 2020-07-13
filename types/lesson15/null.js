@@ -26,3 +26,4 @@ podeSerNulo = 12;
 console.log(podeSerNulo);
 podeSerNulo = 'Tenho x anos';
 console.log(podeSerNulo);
+//# sourceMappingURL=null.js.map

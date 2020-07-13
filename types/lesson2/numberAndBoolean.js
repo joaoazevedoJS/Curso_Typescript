@@ -9,3 +9,4 @@ console.log(idade);
 // let possuiHobbies = false
 var possuiHobbies = false;
 console.log(possuiHobbies);
+//# sourceMappingURL=numberAndBoolean.js.map

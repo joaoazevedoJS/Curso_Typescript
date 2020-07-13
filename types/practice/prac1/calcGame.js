@@ -11,3 +11,4 @@ function game(calc) {
 // [ metade, dobro, numero];
 var calc = game([true, true, 1]);
 console.log(calc);
+//# sourceMappingURL=calcGame.js.map

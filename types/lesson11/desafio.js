@@ -18,3 +18,4 @@ var funcionario = {
 };
 console.log(funcionario.baterPonto(7));
 console.log(funcionario.supervisores);
+//# sourceMappingURL=desafio.js.map

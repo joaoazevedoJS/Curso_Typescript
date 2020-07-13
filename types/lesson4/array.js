@@ -9,3 +9,4 @@ hobbies = [100, '200', 300]; // error array string
 // dentro do array
 // hobbies = 100;
 console.log(hobbies);
+//# sourceMappingURL=array.js.map

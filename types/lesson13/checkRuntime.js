@@ -5,3 +5,4 @@ var valor = 30;
 typeof valor === 'number' ?
     console.log("É valor number!") :
     console.log("\u00C9 valor " + typeof valor);
+//# sourceMappingURL=checkRuntime.js.map

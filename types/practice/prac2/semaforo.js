@@ -20,3 +20,4 @@ function estrada() {
 }
 sairDoLocal();
 setTimeout(function () { return chegarNoLocal(); }, 70000);
+//# sourceMappingURL=semaforo.js.map

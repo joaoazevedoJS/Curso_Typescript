@@ -20,3 +20,4 @@ var personObjMap = {
 console.log(personObjMap);
 // Já com a interface não podemos fazer isso.
 // interface ObjMapInterface { [key in Keys]: string }
+//# sourceMappingURL=TypeVsInterface.js.map

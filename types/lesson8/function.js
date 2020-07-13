@@ -13,3 +13,4 @@ function mult(numA, numB) {
     return numA * numB;
 }
 console.log(mult(7, 7));
+//# sourceMappingURL=function.js.map

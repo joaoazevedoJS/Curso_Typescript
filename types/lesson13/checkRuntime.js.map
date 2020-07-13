@@ -1,0 +1,1 @@
+{"version":3,"file":"checkRuntime.js","sourceRoot":"","sources":["checkRuntime.ts"],"names":[],"mappings":";AAAA,iCAAiC;AAEjC,IAAI,KAAK,GAAG,EAAE,CAAA;AACd,gBAAgB;AAEhB,OAAO,KAAK,KAAK,QAAQ,CAAC,CAAC;IACzB,OAAO,CAAC,GAAG,CAAC,iBAAiB,CAAC,CAAC,CAAC;IAChC,OAAO,CAAC,GAAG,CAAC,kBAAW,OAAO,KAAO,CAAC,CAAA"}

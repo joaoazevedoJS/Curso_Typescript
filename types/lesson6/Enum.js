@@ -18,3 +18,4 @@ console.log(Cor.Laranja, Cor.Amarelo);
 console.log(Cor.Vermelho);
 console.log(Cor[0]);
 console.log(Cor[3]);
+//# sourceMappingURL=Enum.js.map

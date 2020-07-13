@@ -16,3 +16,4 @@ usuario = {
     nome: "Maria",
 };
 console.log(usuario);
+//# sourceMappingURL=objeto.js.map

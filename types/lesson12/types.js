@@ -19,3 +19,4 @@ console.log("Minha nota \u00E9 " + nota + "!");
 nota = '7';
 console.log("Minha nota \u00E9 " + nota + "!");
 // nota = true // caso o tipo da nota fosse any, poderia acontecer esse bug
+//# sourceMappingURL=types.js.map
