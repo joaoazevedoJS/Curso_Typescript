@@ -1,6 +1,6 @@
 "use strict";
 // funções
-var meuNome = "João Azevedo";
+let meuNome = "João Azevedo";
 function retornarMenuNome() {
     return meuNome;
 }

@@ -1,6 +1,6 @@
 "use strict";
 function game(calc) {
-    var result = 0;
+    let result = 0;
     if (calc[0]) {
         result += calc[2] / 2;
     }
@@ -9,6 +9,6 @@ function game(calc) {
     return result;
 }
 // [ metade, dobro, numero];
-var calc = game([true, true, 1]);
+const calc = game([true, true, 1]);
 console.log(calc);
 //# sourceMappingURL=calcGame.js.map

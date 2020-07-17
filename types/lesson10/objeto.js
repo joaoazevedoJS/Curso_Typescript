@@ -1,6 +1,6 @@
 "use strict";
 // Objeto
-var usuario = {
+let usuario = {
     nome: "João",
     idade: 20,
 };

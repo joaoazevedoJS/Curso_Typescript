@@ -9,10 +9,10 @@ function Loop() {
 function Erro(msg) {
     throw new Error(msg);
 }
-var produto = {
+const produto = {
     nome: 'Sabão',
     preco: 1,
-    validarProduto: function () {
+    validarProduto() {
         if (!this.nome || this.nome.trim().length == 0) {
             Erro('Precisa ter um nome');
         }

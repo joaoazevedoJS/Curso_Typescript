@@ -11,7 +11,7 @@ var Cor;
     Cor[Cor["Amarelo"] = 5] = "Amarelo";
     Cor[Cor["Vermelho"] = 100] = "Vermelho";
 })(Cor || (Cor = {}));
-var minhaCor = Cor.Verde;
+let minhaCor = Cor.Verde;
 console.log(minhaCor);
 console.log(Cor.Azul);
 console.log(Cor.Laranja, Cor.Amarelo);

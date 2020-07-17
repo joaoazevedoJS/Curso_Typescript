@@ -12,7 +12,7 @@ function Ponto(horario) {
     return horario <= 8 ?
         'Ponto Normal' : 'Fora do Hórario';
 }
-var funcionario = {
+const funcionario = {
     supervisores: ['João', 'Paula', "Carlos"],
     baterPonto: Ponto
 };

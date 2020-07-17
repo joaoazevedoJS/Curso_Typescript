@@ -2,17 +2,17 @@
 /*
  *  1 - É possivel mesclar interface, mas com types não
  */
-var personInterface = {
+const personInterface = {
     name: 'João Azevedo',
     age: 20
 };
 console.log(personInterface);
 // type ObjType = { age: number }
-var personType = {
+const personType = {
     name: 'João'
 };
 console.log(personType);
-var personObjMap = {
+const personObjMap = {
     firstname: "João",
     middlename: "Victor",
     lastname: "Azevedo"
